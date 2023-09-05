@@ -1,0 +1,7 @@
+E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\bin\Debug\test.exe.config
+E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\bin\Debug\test.exe
+E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\bin\Debug\test.pdb
+E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\obj\Debug\test.exe
+E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\obj\Debug\test.pdb

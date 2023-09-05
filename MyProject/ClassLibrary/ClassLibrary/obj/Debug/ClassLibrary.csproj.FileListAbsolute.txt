@@ -1,0 +1,5 @@
+E:\Ревекка\3 курс\МДК Разраб.ПС\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\Ревекка\3 курс\МДК Разраб.ПС\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\Ревекка\3 курс\МДК Разраб.ПС\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Ревекка\3 курс\МДК Разраб.ПС\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\Ревекка\3 курс\МДК Разраб.ПС\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

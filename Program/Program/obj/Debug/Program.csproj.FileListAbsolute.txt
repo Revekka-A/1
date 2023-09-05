@@ -1,0 +1,10 @@
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\bin\Debug\Program.exe.config
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\bin\Debug\Program.exe
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\bin\Debug\Program.pdb
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\obj\Debug\Program.exe
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\obj\Debug\Program.pdb
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\bin\Debug\ClassLibrary.dll
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\bin\Debug\ClassLibrary.pdb
+E:\Ревекка\3 курс\МДК Разраб.ПС\Program\Program\obj\Debug\Program.csproj.CopyComplete
