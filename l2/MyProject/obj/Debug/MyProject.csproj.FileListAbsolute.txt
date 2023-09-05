@@ -1,0 +1,7 @@
+E:\Ревекка\3 курс\МДК Разраб.ПС\MyProject\MyProject\bin\Debug\MyProject.exe.config
+E:\Ревекка\3 курс\МДК Разраб.ПС\MyProject\MyProject\bin\Debug\MyProject.exe
+E:\Ревекка\3 курс\МДК Разраб.ПС\MyProject\MyProject\bin\Debug\MyProject.pdb
+E:\Ревекка\3 курс\МДК Разраб.ПС\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+E:\Ревекка\3 курс\МДК Разраб.ПС\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+E:\Ревекка\3 курс\МДК Разраб.ПС\MyProject\MyProject\obj\Debug\MyProject.exe
+E:\Ревекка\3 курс\МДК Разраб.ПС\MyProject\MyProject\obj\Debug\MyProject.pdb
